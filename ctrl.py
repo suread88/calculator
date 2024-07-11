@@ -69,4 +69,4 @@ class Control:
             return e
         
         return a%b
-    
+    # mod 함수 추가함 !!!
